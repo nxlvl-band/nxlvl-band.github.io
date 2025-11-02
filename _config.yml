@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'The Next Level Band'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -19,18 +19,15 @@ collections:
     sort_by: weight
   team:
     output: true
+  event-tips:
+    output: true
 
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "event-tips"
     values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
+      layout: "event-tips"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

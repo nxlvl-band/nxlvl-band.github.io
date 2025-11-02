@@ -24,6 +24,28 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
+      <p>
+        We specialize in Top 40/Reggae/Calypso/Jazz/Disco/Pop/and Steel Pan.
+      </p>
+      <p>
+        The Next Level is a full-range musical team providing music for all occasions.
+      </p>
+      <p>
+        Book The Next Level Band for your next event...
+      </p>
+      <p>
+        We are the "Best in Live Entertainment" 
+      </p>
+      <p>
+        and it's Guaranteed Fun!!!!
+      </p>
+    </div>
+  </div>
+</div>
+<!--
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
       {% for service in site.services limit: limit %}
       <div class="col-12 col-md-4 mb-1">
@@ -45,12 +67,32 @@ bodyClass: "page-home"
     </div>
   </div>
 </div>
+-->
 
 {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
+      <h2>
+        Listen to a few of our performances below 
+      </h2>
+      <iframe 
+        width="100%" 
+        height="265" 
+        scrolling="no" 
+        frameborder="no" 
+        src="https://www.reverbnation.com/widget_code/html_widget/artist_7395?widget_id=55&pwc[included_songs]=1&context_type=page_object&pwc[size]=small" 
+        style="width:0px;min-width:100%;max-width:100%;" />
+    </div>
+  </div>
+</div>
+{% endif %}
 
+<!--
+{% if site.data.features %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
@@ -67,3 +109,4 @@ bodyClass: "page-home"
   </div>
 </div>
 {% endif %}
+-->
