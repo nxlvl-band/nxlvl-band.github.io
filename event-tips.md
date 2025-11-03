@@ -9,6 +9,8 @@ There are many ingredients to a successful event, but don't fret, you can make a
 
 Remember, when you take care of the little things, the big things take care of themselves.
 
+<br />
+
 1.  Leave adequate time to do everything.  *A year ahead is not too early.*
 
 2.  Shop around.  You're compatible if there's give and take.  If the person you're dealing with does all of the talking, beware.  You and your needs are foremost.
