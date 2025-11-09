@@ -8,9 +8,12 @@ main:
   - name: "Upcoming Events"
     url: "/upcoming-events/"
     weight: 4
+  - name: "Repertoire"
+    url: "/repertoire/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
@@ -19,6 +22,9 @@ footer:
   - name: "Upcoming Events"
     url: "/upcoming-events/"
     weight: 2
+  - name: "Repertoire"
+    url: "/repertoire/"
+    weight: 3
   - name: "Contact"
     url: "/contact/"
-    weight: 3
+    weight: 4
