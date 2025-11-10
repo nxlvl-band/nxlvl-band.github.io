@@ -1,0 +1,69 @@
+clients:
+  - name: Bellport Chamber of Commerce
+    img: "https://www.bellportchamber.org/rw_common/images/screenshot30.png"
+  - name: Cantor Fitzgerald
+    img: "https://mma.prnewswire.com/media/147829/cantor_fitzgerald_logo.jpg?p=facebook"
+  - name: Johnson & Johnson
+    img: ""
+  - name: Foster & Foster
+    img: ""
+  - name: Getty's Oil
+    img: ""
+  - name: Pfizer
+    img: "https://www.olin.edu/sites/default/files/pfizer_logo_0.png"
+  - name: Countless Political Fundraisers
+    img: ""
+  - name: Patchogue Parks & Rec
+    img: ""
+  - name: Long Island Board of Realtors
+    img: "https://e7.pngegg.com/pngimages/677/858/png-clipart-long-island-board-of-realtors-east-elmhurst-mlsli-estate-agent-real-estate-real-estate-company-logo-miscellaneous-text.png"
+  - name: Westchester Art's Council
+    img: ""
+  - name: Brentwood Schools
+    img: ""
+  - name: Brooklyn Senior Centers
+    img: ""
+  - name: Long Island Senior Centers
+    img: ""
+  - name: Tommy Bahama
+    img: ""
+  - name: Flight 9
+    img: ""
+  - name: PWC
+    img: ""
+  - name: Prudential
+    img: "https://images.seeklogo.com/logo-png/21/1/prudential-logo-png_seeklogo-215753.png"
+  - name: White & Case Law Firm
+    img: ""
+  - name: Kellye Dryer Law Firm
+    img: ""
+  - name: MTI University
+    img: ""
+  - name: Rutgers University
+    img: "https://images.seeklogo.com/logo-png/47/1/rutgers-university-logo-png_seeklogo-476345.png"
+  - name: Brooklyn Hospital
+    img: "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/352540453_2990152644450258_431560848309309693_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=y2gX1yB6xZMQ7kNvwHjwmjq&_nc_oc=Adkkd6G-FY97P6L6CI8nQlotD6yQ4L7A05XgfGlgfQes_nzKUfSWP6IUl1IYbcAh7FswBEmxjtzni-hNTmAWXOL9&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=-_LPCCInCNNpExXwOmIMMA&oh=00_AfisYB19zJ8hYdHmqwnrI8X1q2v69k4P6XDDZnwPppfi2g&oe=69170A13"
+  - name: New Jersey Transit
+    img: "https://www.crwflags.com/fotw/images/u/us-nj_njt.gif"
+  - name: Air Jamaica
+    img: ""
+  - name: Huntington Yacht Club
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgeAMHiEV6AMIC_YOjpoW4o6EIAaihhkELQ&s"
+  - name: Shelter Bay Yacht Club
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sNGmN_NuDkA4MbHHJ6qdUjmLJd0lxXMl1g&s"
+  - name: Montauk Yacht Club
+    img: "https://whalebonemag.com/wp-content/uploads/2023/05/shm-montauk-yacht-club-vertical-primary-logo-dark-navy-1050x749.png"
+  - name: Merchant Marines
+    img: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Seal_of_the_United_States_Merchant_Marine.svg"
+  - name: Central Pet Trade Show
+    img: ""
+  - name: Meadowland's
+    img: ""
+  - name: Harmon Meadows
+    img: ""
+  - name: Camp Kiwi Rec
+    img: "https://chambermaster.blob.core.windows.net/images/customers/1129/members/173/logos/MEMBER_PAGE_HEADER/Logo.jpg"
+  - name: Spring Lake Day Camp
+    img: ""
+  - name: Ernest & Young
+    img: "https://rmkcdn.successfactors.com/bcfdbc8a/688bb7d2-e818-494b-967e-0.png"
