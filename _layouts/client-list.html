@@ -12,15 +12,26 @@ bodyClass: "page-client-list"
                 {% assign clients = site.data.clients.clients | sort: 'img' | reverse %}
                 <div class="grid grid-cols-3 gap-4">
                     {% for client in clients %}
-                    <div class="card" style="max-width: 28rem;">
-                      {% if client.img != "" %}
-                      <img class="card-img-top" src="{{ client.img }}" alt="{{ client.name }}">
-                      {% endif %}
-                      <div class="card-body">
-                        <p class="card-text">{{ client.name }}</p>
-                      </div>
+                    {% if client.img != "" %}
+                    <div>
+                        <div class="card" style="max-width: 24rem;">
+                          <img class="card-img-top" src="{{ client.img }}" alt="{{ client.name }}">
+                        </div>
                     </div>
+                    {% endif %}
                     {% endfor %}
+                </div>
+            </div>
+            <h3 class="text-center">Including:</h3>
+            <br />
+            <div class="content">
+                {% assign clients = site.data.clients.clients | sort: 'img' | reverse %}
+                {% for client in clients %}
+                  {% if client.img == "" %}
+                  <li>{{ client.name }}</li>
+                  <br />
+                  {% endif %}
+                {% endfor %}
                 </div>
             </div>
         </div>
