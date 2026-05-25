@@ -6,7 +6,7 @@ bodyClass: page-repertoire
 ---
 
 <details>
-  <summary><span class="mt-4 text-3xl">Top 40</span></summary>
+  <summary><span class="mt-4 text-3xl">Top 40 / Pop</span></summary>
   <br />
   <li>Bad Girls</li>
   <li>Stay with me</li>
@@ -217,4 +217,39 @@ bodyClass: page-repertoire
   <li>Blame It on the Music</li>
   <li>Real Situation</li>
   <li>I Wanna Know What Love Is</li>
+</details>
+
+<br />
+
+<details>
+  <summary><span class="mt-4 text-3xl">Soca</span></summary>
+  <br />
+</details>
+
+<br />
+
+<details>
+  <summary><span class="mt-4 text-3xl">Jazz</span></summary>
+  <br />
+</details>
+
+<br />
+
+<details>
+  <summary><span class="mt-4 text-3xl">Disco</span></summary>
+  <br />
+</details>
+
+<br />
+
+<details>
+  <summary><span class="mt-4 text-3xl">Dance</span></summary>
+  <br />
+</details>
+
+<br />
+
+<details>
+  <summary><span class="mt-4 text-3xl">Calypso</span></summary>
+  <br />
 </details>

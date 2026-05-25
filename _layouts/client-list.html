@@ -9,7 +9,7 @@ bodyClass: "page-client-list"
             <h1 class="title">{{page.title}}</h1>
             <h2>Some of Our Very Satisfied Customers:</h2>
             <div class="content">
-                {% assign clients = site.data.clients.clients | sort: 'img' | reverse %}
+                {% assign clients = site.data.clients.clients %}
                 <div class="grid grid-cols-3 gap-4">
                     {% for client in clients %}
                     {% if client.img != "" %}
@@ -25,7 +25,7 @@ bodyClass: "page-client-list"
             <h3 class="text-center">Including:</h3>
             <br />
             <div class="content">
-                {% assign clients = site.data.clients.clients | sort: 'img' | reverse %}
+                {% assign clients = site.data.clients.clients | sort: 'img' %}
                 {% for client in clients %}
                   {% if client.img == "" %}
                   <li>{{ client.name }}</li>

@@ -22,3 +22,16 @@
       </div>
     {% endif %}
 </div>
+
+<br />
+
+<h2>Find us on:</h2>
+<div class="call">
+  <div class="call-box-top">
+    <div class="social">
+      {% for item in site.data.social %}
+        <a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
+      {% endfor %}
+    </div>
+  </div>
+</div>

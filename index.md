@@ -7,39 +7,40 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: false
 ---
-We specialize in 
-- Top 40
-- Reggae
-- Calypso
-- Jazz
-- Disco
-- Pop
-- and Steel Pan
+We specialize in: 
+
+* Calypso
+* Disco
+* Jazz
+* Pop
+* Reggae
+* Steel Pan
+* Top 40
 
 <br />
 
-The Next Level is a full-range musical team providing music for all occasions, supplying music for:
+The Next Level Band is a full-range musical team providing music for all occasions, supplying music for:
 
-- Birthdays
-- Anniversaries 
-- Cocktail Hours
-- Ceremonies
-- Block Parties
-- Corporate Events
-- Gala's
-- Fund Raisers
-- Communions
-- Holiday Parties
-- Sweet 16
-- Graduations
-- Christening
+- Anniversaries
 - Bar/Bat Mitzvahs
+- Birthdays
+- Block Parties
+- Ceremonies
+- Christening
+- Cocktail Hours
+- Communions
+- Corporate Events
 - Engagement
+- Fund Raisers
+- Gala's
+- Graduations
+- Holiday Parties
 - Proms
 - School Dances
-- "The After Reception Party" (the new craze)
+- Sweet 16
+- The After Reception Party (the new craze)
 - Weddings
-        
+
 <br />
 
 Book The Next Level Band for your next event...

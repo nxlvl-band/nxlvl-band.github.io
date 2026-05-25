@@ -5,6 +5,16 @@
     "image": "images/social/facebook.svg"
   },
   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/thenextlevelband/",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "TikTok",
+    "link": "",
+    "image": "images/social/tiktok.svg"
+  },
+  {
     "name": "Email",
     "link": "mailto:nxlvl@aol.com ",
     "image": "images/social/email.svg"

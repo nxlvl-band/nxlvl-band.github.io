@@ -1,69 +1,69 @@
 clients:
+  - name: Air Jamaica
+    img: ""
   - name: Bellport Chamber of Commerce
     img: "https://www.bellportchamber.org/rw_common/images/screenshot30.png"
+  - name: Brentwood Schools
+    img: ""
+  - name: Brooklyn Hospital
+    img: ""
+  - name: Brooklyn Senior Centers
+    img: ""
+  - name: Camp Kiwi Rec
+    img: "https://chambermaster.blob.core.windows.net/images/customers/1129/members/173/logos/MEMBER_PAGE_HEADER/Logo.jpg"
   - name: Cantor Fitzgerald
     img: "https://mma.prnewswire.com/media/147829/cantor_fitzgerald_logo.jpg?p=facebook"
-  - name: Johnson & Johnson
+  - name: Central Pet Trade Show
+    img: ""
+  - name: Countless Political Fundraisers
+    img: ""
+  - name: Ernest & Young
+    img: "https://rmkcdn.successfactors.com/bcfdbc8a/688bb7d2-e818-494b-967e-0.png"
+  - name: Flight 9
     img: ""
   - name: Foster & Foster
     img: ""
   - name: Getty's Oil
     img: ""
-  - name: Pfizer
-    img: "https://www.olin.edu/sites/default/files/pfizer_logo_0.png"
-  - name: Countless Political Fundraisers
-    img: ""
-  - name: Patchogue Parks & Rec
-    img: ""
-  - name: Long Island Board of Realtors
-    img: ""
-  - name: Westchester Art's Council
-    img: ""
-  - name: Brentwood Schools
-    img: ""
-  - name: Brooklyn Senior Centers
-    img: ""
-  - name: Long Island Senior Centers
-    img: ""
-  - name: Tommy Bahama
-    img: ""
-  - name: Flight 9
-    img: ""
-  - name: PWC
-    img: ""
-  - name: Prudential
-    img: "https://images.seeklogo.com/logo-png/21/1/prudential-logo-png_seeklogo-215753.png"
-  - name: White & Case Law Firm
-    img: ""
-  - name: Kellye Dryer Law Firm
-    img: ""
-  - name: MTI University
-    img: ""
-  - name: Rutgers University
-    img: "https://images.seeklogo.com/logo-png/47/1/rutgers-university-logo-png_seeklogo-476345.png"
-  - name: Brooklyn Hospital
-    img: ""
-  - name: New Jersey Transit
-    img: "https://www.crwflags.com/fotw/images/u/us-nj_njt.gif"
-  - name: Air Jamaica
+  - name: Harmon Meadows
     img: ""
   - name: Huntington Yacht Club
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgeAMHiEV6AMIC_YOjpoW4o6EIAaihhkELQ&s"
-  - name: Shelter Bay Yacht Club
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sNGmN_NuDkA4MbHHJ6qdUjmLJd0lxXMl1g&s"
-  - name: Montauk Yacht Club
-    img: "https://whalebonemag.com/wp-content/uploads/2023/05/shm-montauk-yacht-club-vertical-primary-logo-dark-navy-1050x749.png"
-  - name: Merchant Marines
-    img: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Seal_of_the_United_States_Merchant_Marine.svg"
-  - name: Central Pet Trade Show
+  - name: Johnson & Johnson
+    img: ""
+  - name: Kellye Dryer Law Firm
+    img: ""
+  - name: Long Island Board of Realtors
+    img: ""
+  - name: Long Island Senior Centers
     img: ""
   - name: Meadowland's
     img: ""
-  - name: Harmon Meadows
+  - name: Merchant Marines
+    img: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Seal_of_the_United_States_Merchant_Marine.svg"
+  - name: Montauk Yacht Club
+    img: "https://whalebonemag.com/wp-content/uploads/2023/05/shm-montauk-yacht-club-vertical-primary-logo-dark-navy-1050x749.png"
+  - name: MTI University
     img: ""
-  - name: Camp Kiwi Rec
-    img: "https://chambermaster.blob.core.windows.net/images/customers/1129/members/173/logos/MEMBER_PAGE_HEADER/Logo.jpg"
+  - name: New Jersey Transit
+    img: "https://www.crwflags.com/fotw/images/u/us-nj_njt.gif"
+  - name: Patchogue Parks & Rec
+    img: ""
+  - name: Pfizer
+    img: "https://www.olin.edu/sites/default/files/pfizer_logo_0.png"
+  - name: Prudential
+    img: "https://images.seeklogo.com/logo-png/21/1/prudential-logo-png_seeklogo-215753.png"
+  - name: PWC
+    img: ""
+  - name: Rutgers University
+    img: "https://images.seeklogo.com/logo-png/47/1/rutgers-university-logo-png_seeklogo-476345.png"
+  - name: Shelter Bay Yacht Club
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sNGmN_NuDkA4MbHHJ6qdUjmLJd0lxXMl1g&s"
   - name: Spring Lake Day Camp
     img: ""
-  - name: Ernest & Young
-    img: "https://rmkcdn.successfactors.com/bcfdbc8a/688bb7d2-e818-494b-967e-0.png"
+  - name: Tommy Bahama
+    img: ""
+  - name: Westchester Art's Council
+    img: ""
+  - name: White & Case Law Firm
+    img: ""
